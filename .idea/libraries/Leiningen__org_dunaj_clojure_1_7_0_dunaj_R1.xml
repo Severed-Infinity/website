@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.dunaj/clojure:1.7.0-dunaj_R1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dunaj/clojure/1.7.0-dunaj_R1/clojure-1.7.0-dunaj_R1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.dunaj/core.async:0.1.0-dunaj_pre4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dunaj/core.async/0.1.0-dunaj_pre4/core.async-0.1.0-dunaj_pre4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
