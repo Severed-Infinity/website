@@ -37,11 +37,11 @@
       [:li "Where am I from? (county/city)"]
       [:li "Freelancer, working, looking for work?"]]
 
-     [:p "Highly intuitive, adept at programming with
+     [:p "\"Highly intuitive, adept at programming with
      experience in web development based in Dublin; "
       [:br]
       "Seeking to expand and develop new skills while
-      looking for challenging and unique opportunities."]
+      looking for challenging and unique opportunities.\""]
 
      #_[:p "A programmer and web designer plucked right
      from the hands of god." [:br]
